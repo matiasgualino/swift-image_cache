@@ -2,7 +2,7 @@
 
 Using this code, you can add a mini cache to your app.
 
-In the FilesCache class, you'll see three levels for an image URL (String). First I verify in NSCache (memory), second I verify in disk and if I have not a data, I'll get it from the server.
+In the FilesCache class, you'll see three levels for an image URL (String). First I verify in NSCache (memory), second I verify in disk and if I have not data, I'll get it from the server.
 
 So, copy and paste this code to load, cached in memory and save in disk an image from URL :)
 
